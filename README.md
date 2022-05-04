@@ -7,7 +7,7 @@ Let me know if you need my services.
 I am on [Linkedin](https://www.linkedin.com/in/varunbatrait/) 
 
 
-[![VarunBatraIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunBatraIT&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![VarunBatraIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunBatraIT&count_private=true)](https://www.linkedin.com/in/varunbatrait/) 
 
 
 <!--
