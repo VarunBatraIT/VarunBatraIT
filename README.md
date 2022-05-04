@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there
+
+I am a Web Application Consultant, I advice companies on how to build a product and scale a team.
+
+Let me know if you need my services.
+
+I am on [Linkedin](https://www.linkedin.com/in/varunbatrait/) 
+
+
+[![VarunBatraIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunBatraIT&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **VarunBatraIT/VarunBatraIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
