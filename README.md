@@ -1,14 +1,4 @@
-### Hi there
-
-I am a Web Application Consultant, I advice companies on how to build a product and scale a team.
-
-Let me know if you need my services.
-
-I am on [Linkedin](https://www.linkedin.com/in/varunbatrait/) 
-
-
-[![VarunBatraIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunBatraIT&count_private=true)](https://www.linkedin.com/in/varunbatrait/) 
-
+I am on [Linkedin](https://www.linkedin.com/in/varunbatrait/)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBatraIT&count_private=true&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
